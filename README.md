@@ -12,6 +12,6 @@ you see workin [here](https://jeferson1.github.io/D7JS_DRUMKIT_BASE/)
 
 # How to use it
 
-To play just press any key in pad on your keyboard or inser an sequence in field and play button to see magic!
+To play just press any key in pad on your keyboard or insert an sequence in field and play button to see magic happens!
 
 ## Lets Rock! 🤟
