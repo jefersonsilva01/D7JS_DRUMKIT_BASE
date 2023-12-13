@@ -8,7 +8,7 @@
 
 This project is a drum kit game made with only vannila javascript to reply sound of drums
 
-you see workin [here]([https://jeferson1.github.io/D7JS_DRUMKIT_BASE/](https://jefersonsilva01.github.io/D7JS_DRUMKIT_BASE/))
+you see workin [here]([https://jeferson1.github.io/D7JS_DRUMKIT_BASE/](https://jefersonsilva01.github.io/D7JS_DRUMKIT_BASE/)
 
 # How to use it
 
